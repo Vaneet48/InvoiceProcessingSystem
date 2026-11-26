@@ -9,3 +9,10 @@
 ~$*.xlsx
 
 appsettings.Development.json
+
+# UiPath generated files
+InvoiceProcessingBot/.local/
+InvoiceProcessingBot/.settings/
+InvoiceProcessingBot/.objects/
+InvoiceProcessingBot/.entities/
+InvoiceProcessingBot/.tmh/

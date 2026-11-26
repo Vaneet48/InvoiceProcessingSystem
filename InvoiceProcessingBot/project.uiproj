@@ -1,0 +1,6 @@
+{
+  "Name": "InvoiceProcessingBot",
+  "ProjectType": "Process",
+  "Description": "Automates invoice processing using Excel and ASP.NET Core API",
+  "MainFile": "Main.xaml"
+}
